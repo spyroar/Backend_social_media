@@ -1,0 +1,11 @@
+{
+  "name": "backend_social_media",
+  "version": "1.0.0",
+  "description": "create api for backend_social_media",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shivpal yadav",
+  "license": "ISC"
+}
