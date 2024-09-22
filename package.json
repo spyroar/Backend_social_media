@@ -2,10 +2,14 @@
   "name": "backend_social_media",
   "version": "1.0.0",
   "description": "create api for backend_social_media",
+  "type": "module",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon src/index.js"
   },
   "author": "shivpal yadav",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
 }
