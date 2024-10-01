@@ -1,1 +1,1 @@
-export const DB_NAME="sm_dbs"
+export const DB_NAME="youtubeDbs"

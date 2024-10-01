@@ -12,5 +12,6 @@ import { upload } from "../middlewares/multer.middleware.js";
         name:"coverImage",
         maxCount:1
      }
- ]),registerUser)
+ ]), registerUser)
+
 export default router
